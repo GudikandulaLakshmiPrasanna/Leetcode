@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0009-palindrome-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
