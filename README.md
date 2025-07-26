@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
