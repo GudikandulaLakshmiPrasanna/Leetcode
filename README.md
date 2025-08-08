@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
+| [1646-kth-missing-positive-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
+| [1646-kth-missing-positive-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
