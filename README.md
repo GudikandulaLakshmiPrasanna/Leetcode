@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0057-insert-interval) |
 | [0238-product-of-array-except-self](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
