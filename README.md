@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0344-reverse-string) |
 ## Array
