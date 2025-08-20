@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0057-insert-interval) |
 | [0238-product-of-array-except-self](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
