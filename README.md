@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0322-coin-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
@@ -82,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
