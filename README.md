@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0268-missing-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0198-house-robber) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GudikandulaLakshmiPrasanna/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
